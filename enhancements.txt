@@ -1,0 +1,2 @@
+* add your photo
+* In the soft skills section. I see some lines in the pdf. I should not see those.
