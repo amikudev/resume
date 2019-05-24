@@ -1,2 +1,5 @@
-add your photo
-In the soft skills section. I see some lines in the pdf. I should not see those.
+add stuff here
+
+Good link
+https://blog.sprintcv.com/it-resume-how-to-write-an-amazing-one-page-cv/
+
